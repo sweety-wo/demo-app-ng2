@@ -1,0 +1,18 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "ngStack",
+    "username": "sweety-wo",
+    "userEmail": "sweety.webashlar@gmail.com",
+    "stack": "fullstack",
+    "repoHostUrl": "github.com",
+    "userNameSpace": "sweety-wo",
+    "client": "ng2",
+    "stylePreprocessor": "none",
+    "server": "node",
+    "nodeWebFrameworkServer": "express",
+    "transpilerServer": "node",
+    "secure": false,
+    "testsSeparated": true,
+    "differentStaticServer": false
+  }
+}
